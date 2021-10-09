@@ -1,7 +1,7 @@
 var mysql = require('mysql');
 
 var db_config = {
-    host     : 'database-1-instance-1.ckpiyjsdrpkt.us-east-2.rds.amazonaws.com', // Your host - either local or cloud
+    host     : 'pdc-database-instance-1.ckpiyjsdrpkt.us-east-2.rds.amazonaws.com', // Your host - either local or cloud
     user     : 'admin', // your username
     password : 'timmyisthebestatasp.net', // your password
     database : 'sys' // database name
